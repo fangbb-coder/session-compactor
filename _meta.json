@@ -1,0 +1,11 @@
+{
+  "owner": "self-improving-agent",
+  "slug": "session-compactor",
+  "displayName": "Session Compactor",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1743590400000,
+    "commit": "initial-implementation"
+  },
+  "history": []
+}
